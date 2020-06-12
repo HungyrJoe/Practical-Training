@@ -1,0 +1,10 @@
+package com.chinasoft.mapper;
+
+import com.chinasoft.pojo.perSet;
+
+public interface perSetMapper {
+
+	//本来应该是update，但现在用insert测试
+	
+	void addPersetByPar(perSet per);
+}

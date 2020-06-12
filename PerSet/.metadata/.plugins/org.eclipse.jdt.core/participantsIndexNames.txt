@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+F:\About Homework\Practical training\test-master\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3196587526.index
+\new_ssm\src\main\java
+F:\About Homework\Practical training\test-master\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3949816759.index
+\new_ssm\src\main\java

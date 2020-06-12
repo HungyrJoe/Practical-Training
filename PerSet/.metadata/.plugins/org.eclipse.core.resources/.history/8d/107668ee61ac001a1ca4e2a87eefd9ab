@@ -1,0 +1,5 @@
+package com.chinasoft.mapper;
+
+public interface perSetMapper {
+
+}

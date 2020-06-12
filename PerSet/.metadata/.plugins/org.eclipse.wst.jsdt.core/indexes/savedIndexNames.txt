@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+F:\About Homework\Practical training\test-master\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2707324424.index
+2932093341.index
+1562464835.index
+1067647861.index
+4175371208.index
+3949816759.index
+1412536422.index
